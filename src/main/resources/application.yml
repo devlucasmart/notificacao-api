@@ -10,3 +10,7 @@ rabbitmq:
     proposta:
       pendente: proposta-pendente.ms-notificacao
 
+aws:
+  acessKey: ${ACESS_KEY}
+  secretKey: ${SECRET_KEY}
+
